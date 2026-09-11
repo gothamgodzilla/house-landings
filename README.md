@@ -1,7 +1,9 @@
 # House landings
 
-Luxury piano-black hallways for Coexist.Click, Ganesh.Guru, and LynxLogix.AI.
-They do not replace Mangasm.app or the LynxLogix.NET desk.
-Every page sells Mangasm+ and points at the human-gated desk.
+Piano-black hallways for Coexist.Click, Ganesh.Guru, and LynxLogix.AI.
 
-Attach custom domains on the Vercel project `house-landings` when DNS is ready.
+They are doors. They are not six brands.
+
+Living product: https://www.mangasm.app/
+Membership: https://www.mangasm.app/plus
+Desk: https://lynxlogix-net.vercel.app/
