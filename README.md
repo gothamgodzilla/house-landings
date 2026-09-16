@@ -7,3 +7,4 @@ They are doors. They are not six brands.
 Living product: https://www.mangasm.app/
 Membership: https://www.mangasm.app/plus
 Desk: https://lynxlogix-net.vercel.app/
+Evening brief: https://lynxlogix-net.vercel.app/today.html
